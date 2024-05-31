@@ -6,7 +6,7 @@
 
 **Encountered Issues:** 
 
-  There were two issues that I encountered while following this course and both were due to the fact that the course was last updated in 2020.    
+  There were two issues that I encountered while following this course and both were due to the fact that the course was last updated in 2020. Thankfully, the course shows how to use Digikey to filter for certain specifications and gives the exact information on what form factor and electrical specifications are needed.    
     
   The first issue was that some parts that were used in the circuit were now obsolete so I had to find alternative parts based off the specfications of the parts that were used in the course.     
     
