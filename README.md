@@ -2,7 +2,7 @@
 
 **Overview:**  
     
-  This project is based off information from the Udemy Course - Design a board in 15 hours. Step-by-Step tutorial based on Arduino project (Altium), and the open-source Arduino Uno R3 schematic. 
+  This project is created based off information from the Udemy Course - Learn to Design Your Own Boards, and the open-source Arduino Uno R3 schematic. The PCB was created using Altium Designer and the project focuses on creating a schematic library from scratch and creating footprints in the PCB library from scratch. Then the parts are used in the making of the schematic which is then imported into the PCB designer where PCB placement and layout is performed.
 
 **Encountered Issues:** 
 
