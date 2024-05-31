@@ -1,8 +1,9 @@
 # PCB_Custom_Arduino
 
-Overview:  This project is based off information from the Udemy Course - Design a board in 15 hours. Step-by-Step tutorial based on Arduino project (Altium), and the open-source Arduino Uno R3 schematic. 
+**Overview:**
+  This project is based off information from the Udemy Course - Design a board in 15 hours. Step-by-Step tutorial based on Arduino project (Altium), and the open-source Arduino Uno R3 schematic. 
 
-Encountered Issues: 
+**Encountered Issues:** 
 
   There were two issues that I encountered while following this course and both were due to the fact that the course was last updated in 2020.    
     
