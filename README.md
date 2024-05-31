@@ -7,7 +7,8 @@ Schematic:
 
 PCB Placement:
 
-![image](https://github.com/Hayden-Cao/PCB_Custom_Arduino/assets/130268332/e0a791d4-9d54-45dd-b895-a1bfdce05242)
+![image](https://github.com/Hayden-Cao/PCB_Custom_Arduino/assets/130268332/13e063b1-6665-4eac-a857-496654f282b5)
+
 
 3D Model Before PCB Layout:
 
