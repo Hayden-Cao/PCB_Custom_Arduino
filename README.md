@@ -29,4 +29,7 @@ PCB Placement:
 
 PCB Layout (In Progress):
 
+![image](https://github.com/user-attachments/assets/72e230e3-88a2-4bff-a28c-a13a4d5d1ef6)
+
+
 
